@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="82f2743c-66d1-434e-9ed9-4c295bb89ee2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/bearmaps/utils/ps/KDTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/bearmaps/utils/ps/KDTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bearmaps/utils/ps/KDTreeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/bearmaps/utils/ps/KDTreeTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1fbwNPw6qpW24VUVk22PAVPN5yk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="JUnit.KDTreeTest.testWith10000PointsAnd2000Queries">
+    <configuration name="MapServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bearmaps.MapServer" />
+      <module name="proj3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bearmaps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KDTreeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="proj3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bearmaps.utils.ps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bearmaps.utils.ps" />
+      <option name="MAIN_CLASS_NAME" value="bearmaps.utils.ps.KDTreeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KDTreeTest.testWith10000PointsAnd2000Queries" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="proj3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bearmaps.utils.ps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bearmaps.utils.ps" />
+      <option name="MAIN_CLASS_NAME" value="bearmaps.utils.ps.KDTreeTest" />
+      <option name="METHOD_NAME" value="testWith10000PointsAnd2000Queries" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KDTreeTest.testWith1000PointsAnd200Queries" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="proj3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bearmaps.utils.ps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bearmaps.utils.ps" />
+      <option name="MAIN_CLASS_NAME" value="bearmaps.utils.ps.KDTreeTest" />
+      <option name="METHOD_NAME" value="testWith1000PointsAnd200Queries" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRouter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="proj3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bearmaps.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bearmaps.test" />
+      <option name="MAIN_CLASS_NAME" value="bearmaps.test.TestRouter" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.KDTreeTest.testWith10000PointsAnd2000Queries" />
+        <item itemvalue="JUnit.KDTreeTest" />
+        <item itemvalue="JUnit.KDTreeTest.testWith1000PointsAnd200Queries" />
+        <item itemvalue="JUnit.TestRouter" />
+        <item itemvalue="Application.MapServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82f2743c-66d1-434e-9ed9-4c295bb89ee2" name="Default Changelist" comment="" />
+      <created>1596500059448</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596500059448</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="93" y="93" width="1350" height="678" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1596987139853">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="93" y="93" width="1350" height="678" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.864@0.0.1536.864" timestamp="1596987139853" />
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1596972096883">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1596972096883" />
+    <state width="1493" height="274" key="GridCell.Tab.0.bottom" timestamp="1597030765286">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="274" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1597030765286" />
+    <state width="1493" height="274" key="GridCell.Tab.0.center" timestamp="1597030765285">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="274" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1597030765285" />
+    <state width="1493" height="274" key="GridCell.Tab.0.left" timestamp="1597030765285">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="274" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1597030765285" />
+    <state width="1493" height="274" key="GridCell.Tab.0.right" timestamp="1597030765285">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="274" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1597030765285" />
+    <state width="1493" height="274" key="GridCell.Tab.1.bottom" timestamp="1597030765286">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="274" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1597030765286" />
+    <state width="1493" height="274" key="GridCell.Tab.1.center" timestamp="1597030765286">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="274" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1597030765286" />
+    <state width="1493" height="274" key="GridCell.Tab.1.left" timestamp="1597030765286">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="274" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1597030765286" />
+    <state width="1493" height="274" key="GridCell.Tab.1.right" timestamp="1597030765286">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="274" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1597030765286" />
+    <state x="249" y="6" key="SettingsEditor" timestamp="1596753302584">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="249" y="6" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1596753302584" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/bearmaps/test/TestRouterTiny.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="!expected.equals(actual)" language="JAVA" />
+          <url>file://$PROJECT_DIR$/bearmaps/utils/ps/KDTreeTest.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/proj3$KDTreeTest_testWith10000PointsAnd2000Queries.ic" NAME="KDTreeTest.testWith10000PointsAnd2000Queries Coverage Results" MODIFIED="1597030861947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>bearmaps.utils.ps.*</FILTER>
+    </SUITE>
+  </component>
+</project>

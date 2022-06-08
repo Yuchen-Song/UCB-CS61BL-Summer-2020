@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:skeleton" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a33e1eb6-cd78-4997-b5bd-44ac847d883e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../lab16/SimpleNameMapTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab16/HashMapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab16/HashMapTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab16/SimpleNameMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab16/SimpleNameMap.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1e3zjtcoTVDfz5o9KAqsHvhpoFg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.ArrayDeque">
+    <configuration name="ArrayDeque" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayDeque" />
+      <module name="proj1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedListDeque" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedListDeque" />
+      <module name="proj1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ArrayDeque" />
+        <item itemvalue="Application.LinkedListDeque" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a33e1eb6-cd78-4997-b5bd-44ac847d883e" name="Default Changelist" comment="" />
+      <created>1593565202432</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593565202432</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="445" y="172" key="FileChooserDialogImpl" timestamp="1594303397240">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="445" y="172" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1594303397240" />
+    <state width="1493" height="398" key="GridCell.Tab.0.bottom" timestamp="1594263450370">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="398" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1594263450370" />
+    <state width="1493" height="398" key="GridCell.Tab.0.center" timestamp="1594263450370">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="398" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1594263450370" />
+    <state width="1493" height="398" key="GridCell.Tab.0.left" timestamp="1594263450370">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="398" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1594263450370" />
+    <state width="1493" height="398" key="GridCell.Tab.0.right" timestamp="1594263450370">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="398" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1594263450370" />
+    <state width="1493" height="398" key="GridCell.Tab.1.bottom" timestamp="1594263450370">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="398" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1594263450370" />
+    <state width="1493" height="398" key="GridCell.Tab.1.center" timestamp="1594263450370">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="398" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1594263450370" />
+    <state width="1493" height="398" key="GridCell.Tab.1.left" timestamp="1594263450370">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="398" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1594263450370" />
+    <state width="1493" height="398" key="GridCell.Tab.1.right" timestamp="1594263450370">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="398" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1594263450370" />
+    <state x="408" y="135" key="NewModule_or_Project.wizard" timestamp="1593951771167">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="408" y="135" key="NewModule_or_Project.wizard/0.0.1536.864@0.0.1536.864" timestamp="1593951771167" />
+    <state x="249" y="6" key="SettingsEditor" timestamp="1593996975327">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="249" y="6" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1593996975327" />
+    <state x="86" y="61" key="new project wizard" timestamp="1594170085727">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="86" y="61" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1594170085727" />
+  </component>
+</project>
